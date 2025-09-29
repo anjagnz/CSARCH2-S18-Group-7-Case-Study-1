@@ -60,19 +60,22 @@ Google spreadsheet link: [Local Manila Build](https://docs.google.com/spreadshee
 ---
 
 ## 4. Compatibility Justification
-For each part, explain compatibility and choices.  
-Example:  
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
-- **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.  
-
+- **CPU + Motherboard**: Intel i5-12400F (LGA1700) works with ASRock B660M board (LGA1700 socket, Intel B660 chipset).
+- **CPU Cooler**: Thermalright Peerless Assassin 120 SE supports LGA1700 socket.
+- **RAM**: DDR4 RAM supported by motherboard slots (up to 128GB).
+- **Storage 1**: Silicon Power UD90 (NVME SSD Storage) has good overall performance with its fast and large capacity.
+- **Storage 2**: TEAMGROUP T-Force Vulcan (SATA SSD) performs well as secondary storage for larger games.
+- **GPU**: ASRock Challenger D Radeon RX 6600 matches the performance of the CPU in 1080p gaming without bottlenecking.
+- **PSU**: MSI MAG A850GL PCIE5 has 850W which supplies adequate power for a gaming build.
+- **Case**: Montech XR ATX Mid Tower Case supports motherboard form factor (Micro ATX).
+- **Case fans**: Noctua NF-A12x25 provides sufficient airflow for extra gaming support.
 ---
 
 ## 5. Budget Analysis
 - **Budget Limit**: ₱60,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
-- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+- **Final Total**: ₱58,149  
+- ✅ Within budget  
+- The quality of the GPU was greatly considered, hence why it has the highest price among all the components. To fully maximize the budget, we decided to invest more on choosing a bigger and more efficient storage capacity. On the other hand, the rest of the components perform well enough for what it is built for given the price, and without compromising quality.
 
 ---
 
