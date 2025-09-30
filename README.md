@@ -12,12 +12,9 @@
 ---
 
 ## 1. Introduction
-Briefly describe your project build (1–2 paragraphs).  
-Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
-
 For this project, we are tasked with building a custom Intel-based entry-level gaming PC designed for users seeking high performance while keeping costs reasonable. The target use case focuses on general gaming at 1080p resolution, aiming to achieve smooth gameplay with graphics settings turned up, while also handling general-purpose computing tasks. The budget for this build is ₱60,000, with a 5% margin of error, making it an excellent all-around option for gamers who want strong performance without overspending.
 
-The components were selected to balance cost and performance. The Intel Core i5-12400F, a 6-core, 12-thread CPU, can handle modern AAA games efficiently, paired with 16 GB of DDR4 memory to support smooth multitasking. Storage consists of a fast 2 TB NVMe SSD for the operating system and frequently used programs, plus an additional 2 TB SATA SSD for extra games and files. The ASRock Challenger D Radeon RX 6600 8 GB graphics card delivers 60+ FPS gameplay at 1080p on current AAA titles. Together with a reliable motherboard, efficient cooling, and a robust power supply, this build offers excellent performance while staying within budget.
+The components were selected to balance cost and performance. The Intel Core i5-12400F, a 6-core, 12-thread CPU, can handle modern AAA games efficiently, paired with 16 GB of DDR4 memory to support smooth multitasking. Storage consists of a fast 2 TB NVMe SSD for the operating system and frequently used programs, plus an additional 2 TB SATA SSD for extra games and files. The ASRock Challenger D Radeon RX 6600 8 GB graphics card delivers 60+ FPS gameplay at 1080p on current AAA titles. These components leave room for future upgrades as well, which may become necessary as the system ages or as newer games demand higher performance. Together with a reliable motherboard, efficient cooling, a robust power supply, and its versatility, this build offers excellent performance while staying within budget.
 
 ---
 
