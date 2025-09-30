@@ -23,7 +23,7 @@ The components were selected to balance cost and performance. The Intel Core i5-
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: [Draft Build](https://pcpartpicker.com/list/RV9dLc)
+PCPartPicker Permalink: [Draft Build](https://pcpartpicker.com/list/bGVkYd)
 
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
@@ -33,12 +33,12 @@ PCPartPicker Permalink: [Draft Build](https://pcpartpicker.com/list/RV9dLc)
 | Motherboard     | 	ASRock B660M Pro RS Micro ATX LGA1700 Motherboard   | $107.99             | Taken from price history   |
 | RAM             | 	Kingston FURY Beast 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory   | 	$78.61             | ...   |
 | Storage 1       | 	Silicon Power UD90 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive	   | 	$97.97             | ...   |
-| Storage 2       | 	TEAMGROUP T-Force Vulcan Z 2 TB 2.5" Solid State Drive   | 	$94.99            | ...   |
-| Graphics Card   | 	ASRock Challenger D Radeon RX 6600 8 GB Video Card   | 	$219.99             | ...   |
+| Storage 2       | 	Crucial BX500 1 TB 2.5" Solid State Drive   | 	$69.64            | ...   |
+| Graphics Card   | 	ASRock Challenger OC Arc B580 12 GB Video Card   | 	$259.99             | ...   |
 | Power Supply    | 	MSI MAG A850GL PCIE5 850 W 80+ Gold Certified Fully Modular ATX Power Supply   | 	$115.99             | ...   |
 | Case            | 	Montech XR ATX Mid Tower Case   | 	$73.73             | ...   |
 | Case Fans       | 	Noctua NF-A12x25 PWM chromax.black.swap 60.09 CFM 120 mm Fan   | 	$37.95             | ...   |
-| **Total**       |       | **974.82 USD**     |       |
+| **Total**       |       | **989.47 USD**     |       |
 
 ---
 
@@ -53,13 +53,13 @@ Google spreadsheet link: [Local Manila Build](https://docs.google.com/spreadshee
 | CPU Cooler      | Thermalright Peerless Assassin 120 SE 66. 17 CFM CPU Cooler   | [Datablitz](https://ecommerce.datablitz.com.ph/products/thermalright-peerless-assassin-120-se-black-cpu-cooler)    | 1950         | ...                  |
 | Motherboard     | ASRock B660M Pro RS Micro ATX LGA1700 Motherboard   | [Datablitz](https://ecommerce.datablitz.com.ph/products/asrock-b660m-pro-rs-ax-motherboard) | 7750         | ...                    |
 | RAM             | Kingston FURY Beast 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory   | [Datablitz](https://ecommerce.datablitz.com.ph/products/kingston-fury-beast-16gb-2x8gb-ddr4-3200mhz-memory-kf432c16bbk2-16) | 2195         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | Silicon Power UD90 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive   | [Silicon Power PH](https://ph.shp.ee/X7Tt4E1) | 9944         | ...              |
-| Storage 2 (SATA SSD) | TEAMGROUP T-Force Vulcan Z 2 TB 2.5" Solid State Drive   | [Datablitz](https://ecommerce.datablitz.com.ph/products/teamgroup-t-force-vulcan-z-2tb-2-5-sata-iii-3d-nand-internal-ssd-t253tz002t0c101)   | 5950         | ...                  |
-| GPU             | ASRock Challenger D Radeon RX 6600 8 GB Video Card   | [Datablitz](https://ecommerce.datablitz.com.ph/products/asrock-amd-radeon-rx-6600-challenger-d-8gb-gddr6-graphics-card)    | 12450         | ...  |
+| Storage 1 (NVME SSD) | Silicon Power UD90 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive   | [Silicon Power PH](https://ph.shp.ee/X7Tt4E1) | 9944         | ...              |
+| Storage 2 (SATA SSD) | Crucial BX500 1 TB 2.5" Solid State Drive   | [Datablitz](https://ecommerce.datablitz.com.ph/products/crucial-bx500-4tb-3d-nand-sata-2-5-inch-ssd-ct4000bx500ssd1-1?variant=52647899758963)   | 4050         | ...                  |
+| GPU             | ASRock Challenger OC Arc B580 12 GB Video Card   | [DynaQuest PC](https://dynaquestpc.com/products/asrock-intel-arc-b580-challenger-12gb-oc-graphics-card-ar-b580-cl-12go)    | 17350         | ...  |
 | PSU             | MSI MAG A850GL PCIE5 850 W 80+ Gold Certified Fully Modular ATX Power Supply   | [PC Express](https://pcx.com.ph/products/msi-850w-mag-a850gl-atx-3-1-80-gold-fully-modular-power-supply?_pos=1&_sid=b1f032c83&_ss=r)   | 6000         | ...                     |
 | Case            | Montech XR Mid Tower ATX PC Case   | [Datablitz](https://ecommerce.datablitz.com.ph/products/montech-xr-mid-tower-atx-pc-case-black-white)    | 3395         | ATX Mid-Tower                        |
 | Case Fans       | Noctua NF-A12x25 PWM chromax.black.swap 60.09 CFM 120 mm Fan   | [DynaQuest PC](https://dynaquestpc.com/products/noctua-nf-a12x25-pwm-chromax-black-swap-premium-quiet-fan-4-pin-120mm-black)    | 1920         | ...                         |
-| **Total**       |       |                    | **58149 Php** | Within budget                        |
+| **Total**       |       |                    | **61149 Php** | Within budget                        |
 
 ---
 
@@ -67,19 +67,19 @@ Google spreadsheet link: [Local Manila Build](https://docs.google.com/spreadshee
 - **CPU + Motherboard**: Intel i5-12400F (LGA1700) works with ASRock B660M board (LGA1700 socket, Intel B660 chipset).
 - **CPU Cooler**: Thermalright Peerless Assassin 120 SE supports LGA1700 socket.
 - **RAM**: DDR4 RAM supported by motherboard slots (up to 128GB).
-- **Storage 1**: Silicon Power UD90 (NVME SSD Storage) has good overall performance with its fast and large capacity.
-- **Storage 2**: TEAMGROUP T-Force Vulcan (SATA SSD) performs well as secondary storage for larger games.
-- **GPU**: ASRock Challenger D Radeon RX 6600 matches the performance of the CPU in 1080p gaming without bottlenecking.
+- **Storage 1**: Silicon Power UD90 (NVME SSD Storage) has good overall performance with its fast and large capacity at 2TB.
+- **Storage 2**: Crucial BX500 (SATA SSD) performs well as secondary storage for larger AAA games at 1TB.
+- **GPU**: ASRock Challenger OC Arc B580 matches the performance of the CPU in 1080p gaming without bottlenecking.
 - **PSU**: MSI MAG A850GL PCIE5 has 850W which supplies adequate power for a gaming build.
 - **Case**: Montech XR ATX Mid Tower Case supports motherboard form factor (Micro ATX).
 - **Case fans**: Noctua NF-A12x25 provides sufficient airflow for extra gaming support.
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱60,000  
-- **Final Total**: ₱58,149  
+- **Budget Limit**: ₱60,000 +/- 5%
+- **Final Total**: ₱61,149  
 - ✅ Within budget  
-- The quality of the GPU was greatly considered, hence why it has the highest price among all the components. To fully maximize the budget, we decided to invest more on choosing a bigger and more efficient storage capacity. On the other hand, the rest of the components perform well enough for what it is built for given the price, and without compromising quality.
+- The quality of the GPU was greatly considered, hence why it has the highest price among all the components to support the best gaming experience for 1080p and even higher. We also considered here the space that AAA games take up, as they tend to range from 50B to 150GB, which is why we decided to fully maximize the budget with a 2TB SSD storage and an additional storage of 1TB for good measure. At the same time, the rest of the components perform very well for what it is built for without compromising their quality.
 
 ---
 
