@@ -80,15 +80,19 @@ Google spreadsheet link: [Local Manila Build](https://docs.google.com/spreadshee
 ---
 
 ## 6. Conclusion & Learnings
+Reflections on:
 - Price differences (international vs. Manila vendors)  
+
   A comparison of international and Manila vendor prices among the PC components shows that most components' price differences have a **close margin**, generally under 15%, with an **average difference of 6.46%**. Components in this category include the CPU, CPU Cooler, SATA SDD, GPU, PSU, and case fans. This small difference is likely due to factors such as shipping or import costs and exchange rate fluctuations, since some prices (International vs Manila) are almost similar, like the *Intel Core i5-12400F* and *Thermalright Peerless Assassin 120 SE*. CPUs and GPUs from brands like Intel and ASRock are widely available, which helps keep the prices closely aligned between the two markets.
   
   On the other hand, the motherboard, RAM, NVME SDD, and PC case show **high margins**, ranging from approximately **21.77% to 69.52%**. For example, *ASRock B660M Pro RS motherboard* has a higher local price compared to its price in PCPartPicker, likely due to increased shipping costs and its fragility. Conversely, the *Kingston FURY RAM* and *Montech XR mid-tower case* have lower local prices, both of which are from Datablitz, which is a vendor known for low-priced pricing due to distributor deals and promotional offers. Meanwhile, the *Silicon Power UD90 NVME SSD*, with a base price of ₱9,944 on the brand’s official Shopee platform, shows one of the largest markups locally, possibly due to high demand and limited availability of the component locally outside its official stores (Shopee & Lazada), as well as platform fees. The total pricing of the build between international (~₱56,000: when converted) and local ( ₱58,149) differs by a small margin. These comparisons show that prices vary depending on several factors, and while many well-known components have reasonably similar prices internationally and locally, certain items such as those that are fragile or in high demand tend to be significantly more expensive in the Philippines. 
 
-- Challenges in finding stock or cheaper equivalents  
+- Challenges in finding stock or cheaper equivalents 
+
   Building a PC was completed successfully within the specified budget however the process was not without a hitch. Most challenges surfaced when looking for local vendors that sell the components the group chose. Some preferred parts were only available in one vendor, Datablitz, which limited the group’s options to choose from vendors that sell them at a lower price. Similarly, other parts were also difficult to locally source as the small number of vendors that sell the products are either unofficial or out of stock. Due to these issues, the group was forced to look for alternatives that offer the same or greater capabilities than the initial preferred components.
 
 - What the group learned about PC components and system design  
+
   During the process of building the PC that aligns with the needs of being an Intel-based good entry-level gaming device, the group obtained a deeper understanding around its components and system design. Since the PC is for gaming, research was conducted to learn the minimum requirements for the parts to have so that the computer will be able to run AAA games at a high quality. A capable GPU such as the RX 6600 significantly improves the performance of the computer by enabling it to run games at 60+ fps and 1080p quality. In addition, a minimum of 16GB of dual-channel RAM and NVME SSD ensures stable performance and faster loading times. The compatibility of the various components was examined in addition to their respective capabilities. By choosing a chassis that would accommodate the CPU cooler or confirming that the power supply's connectors match the GPU's specifications, the group made sure that every component worked together. Ultimately, the group learned that designing and building a good system is not all about the performance of each component; rather it should also prioritize how well the components can work together.
 
 ---
