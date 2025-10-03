@@ -106,6 +106,8 @@ Vendor Links:
 - [Silicon Power PH](https://shopee.ph/siliconpower_ph_official)
 - [DynaQuest PC](https://dynaquestpc.com/)
 - [PC Express](https://pcx.com.ph)
-- PCPartPicker build link  
-- Any technical documentation consulted  
+
+Technical documentation:
+- [How to Build a Gaming PC](https://www.intel.com/content/www/us/en/gaming/resources/how-to-build-a-gaming-pc.html)
+- [Bottleneck Calculator](https://www.willitbottleneck.com/)
 
