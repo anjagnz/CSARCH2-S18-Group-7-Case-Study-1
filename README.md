@@ -101,7 +101,11 @@ Reflections on:
 - https://youtu.be/JmEb5xmBz6E
 
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)  
+Vendor Links:
+- [Datablitz](https://ecommerce.datablitz.com.ph/)
+- [Silicon Power PH]()
+- [DynaQuest PC](https://dynaquestpc.com/)
+- [PC Express](https://pcx.com.ph)
 - PCPartPicker build link  
 - Any technical documentation consulted  
 
