@@ -103,7 +103,7 @@ Reflections on:
 ## 8. References
 Vendor Links:
 - [Datablitz](https://ecommerce.datablitz.com.ph/)
-- [Silicon Power PH]()
+- [Silicon Power PH](https://shopee.ph/siliconpower_ph_official)
 - [DynaQuest PC](https://dynaquestpc.com/)
 - [PC Express](https://pcx.com.ph)
 - PCPartPicker build link  
